@@ -1,0 +1,9 @@
+https://randomnerdtutorials.com/getting-started-with-esp32/
+https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/
+
+https://defendtheplanet.net/2016/01/01/5v-light-detector-analog-digital-flying-fish-mh-sensor-series/
+
+https://www.youtube.com/watch?v=eDKbRlADvA0
+
+https://www.bing.com/search?pglt=43&q=mh+sensor+series&cvid=2db21fd0ba1549ddb300f45b6d87dacf&gs_lcrp=EgZjaHJvbWUqBggAEAAYQDIGCAAQABhAMgYIARBFGDkyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQABhAMgYIBxAAGEAyBggIEAAYQNIBCDMwNzFqMGoxqAIAsAIA&FORM=ANNTA1&PC=U531&ntref=1
+https://www.bing.com/search?pglt=43&q=KY-033&cvid=0aeada51683442eab6f59e089b27d59f&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQNIBCDE4NzlqMGoxqAIAsAIA&FORM=ANNTA1&PC=U531&ntref=1
